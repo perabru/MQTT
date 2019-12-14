@@ -1,10 +1,4 @@
-/*
- * Curso - Controle dispositivos remotamente com ESP8266
- * Por: Fábio Souza
- * 
- * Exemplo - MQTT
- * Assina tópico no servidor MQTT
- */
+
 
 
 #include <ESP8266WiFi.h>
